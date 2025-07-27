@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oarabile</h1>
-<h3 align="center">Frontend Engineer. Built <a href="https://github.com/droidscriptlabs/material-components" target="_blank">Material Components For DroidScript.</a>
+<h3 align="center">Frontend Engineer, Linux Distrohopping & Ricing Addcit & Backend Sometimes*. 
+  
+Focused on building perfomant software 
   
 <br/>
 <br/>
