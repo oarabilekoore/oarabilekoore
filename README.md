@@ -19,7 +19,7 @@
 
 <div align="center">
 
-**Currently Learning:** Go • C • Dart  
+**Currently Learning:** Go • C  
 **Daily Drivers:** JavaScript • TypeScript • React • Svelte • Solidjs • Linux 
 
 </div>
